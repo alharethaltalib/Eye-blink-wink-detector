@@ -23,7 +23,7 @@ open the terminal
 python detect_blinks.py
 ```
 The default args open the camera and detect the eye blink in the video
-![sample](https://github.com/mans-men/eye-blink-detection-demo/blob/master/sample.png)
+![sample](https://github.com/alharethaltalib/Eye-blink-wink-detector/blob/master/Frame_screenshot_03.07.2019.png)
 
 ```
 python detect_blinks.py -h
